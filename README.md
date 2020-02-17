@@ -8,7 +8,9 @@ I learned web crawler methods from the book, Financial Data  Mining and Analysis
 
 [Contents]
 Final_Code.ipynb -- web scrawler code in Jupyter Notebook
+
 Final_code.R     -- variance analysis code in R
+
 Final_data.xlsx  -- data extracted using Final_Code.ipynb and used in Final_code.R
 
 Thank you,
