@@ -7,6 +7,7 @@ This is a personal final project for a class, Regression Analysis in Management 
 I learned web crawler methods from the book, Financial Data  Mining and Analysis Using Python, which is written by Yutao Wang. So the case study of Baidu News Report in the book is also  included as the exercise part in the code.
 
 [Contents]
+
 Final_Code.ipynb -- web scrawler code in Jupyter Notebook
 
 Final_code.R     -- variance analysis code in R
